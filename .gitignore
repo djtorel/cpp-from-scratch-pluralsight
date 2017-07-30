@@ -8,5 +8,5 @@ module-05/if-statements/multiplication
 module-05/random-numbers/random-numbers
 module-05/random-numbers/multiplication-random
 .vscode
-module-05/loops/multiplication-loop
 module-05/loops/multiplication-while-loop
+module-05/loops/multiplication-for-loop
